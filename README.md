@@ -59,7 +59,7 @@ Use Live Server (VS Code) or open manually in browser.
 | Role    | Email              | Password |
 |---------|--------------------|----------|
 | Admin   | dani@hotmail.com   | 123456   |
-| Visitor | ruperto@hotmail.com   | 123456   |
+| Visitor | juan@hotmail.com   | 123456   |
 
 More users in `db.json`.
 
