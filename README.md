@@ -1,10 +1,11 @@
 # 📅 Event Management SPA
 
 
-#Name: Daniel Fernando Rojas Echeverria
-#Clan: Ciénaga
-#Email: dani-rojas0206@hotmail.com
-#CC 1002210129
+# Name: Daniel Fernando Rojas Echeverria
+# Clan: Ciénaga
+# Email: dani-rojas0206@hotmail.com
+# CC 1002210129
+# github: https://github.com/RojasDaniel3/prueba_desempe-o.git
 
 
 
