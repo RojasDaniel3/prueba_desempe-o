@@ -1,0 +1,67 @@
+{
+  "roles": [
+    {
+      "id": "1",
+      "name": "admin"
+    },
+    {
+      "id": "2",
+      "name": "user"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Daniel",
+      "email": "dani@hotmail.com",
+      "password": "123456",
+      "role": "admin",
+      "roleId": "1"
+    },
+    {
+      "id": "49cc",
+      "name": "ruperto",
+      "email": "ruperto@hotmail.com",
+      "password": "123456",
+      "roleID": "2"
+    },
+    {
+      "id": "a868",
+      "name": "kevin",
+      "email": "kevin@hotmail.com",
+      "password": "123456",
+      "roleID": "2"
+    },
+    {
+      "id": "b77f",
+      "name": "juan",
+      "email": "juan@hotmail.com",
+      "password": "123456",
+      "roleID": "2",
+      "role": "visitor"
+    }
+  ],
+  "events": [
+    {
+      "id": "bb60",
+      "title": "panaderia",
+      "instructor": "daniel",
+      "capacity": 4,
+      "enrolled": []
+    },
+    {
+      "id": "fc55",
+      "title": "pasterliera",
+      "instructor": "kevin",
+      "capacity": 11,
+      "enrolled": []
+    },
+    {
+      "id": "5cc1",
+      "title": "adad",
+      "instructor": "3113",
+      "capacity": 3110,
+      "enrolled": []
+    }
+  ]
+}
